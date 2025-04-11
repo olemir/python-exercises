@@ -1,0 +1,5 @@
+movieid,title,mpaa_rating,budget,gross,release_date,genre,runtime,rating,rating_count
+84,schindler's list,r,22000000,321365567,1993-11-29,history,195.0,8.9,1117322.0
+181,shakespeare in love,r,25000000,289317794,1998-12-11,history,122.0,7.1,203939.0
+233,the patriot,r,110000000,215294342,2000-06-28,history,165.0,7.2,241120.0
+459,lincoln,pg-13,65000000,275293450,2012-11-09,history,149.0,7.3,232227.0
